@@ -1,3 +1,11 @@
 {
-  "rewards": []
+  "rewards": [
+    {
+      "code": "THANKSTESTER",
+      "rewardId": "tester-20260929-01",
+      "diamonds": 50000,
+      "pinkDiamonds": 50000,
+      "playerIdHash": "019daef832613bb7b057c4f20ed8cf7da1d1b4dded0461cad9f9a85160c53de6"
+    }
+  ]
 }
