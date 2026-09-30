@@ -9,7 +9,7 @@
     },
     {
       "code": "RANDOMCARD01",
-      "rewardId": "pub-mythic-20260929",
+      "rewardId": "pub-mythic-20260929-r2",
       "diamonds": 0,
       "pinkDiamonds": 0,
       "cardTier": "Mythic",
@@ -18,7 +18,7 @@
     },
     {
       "code": "WHGDKDYD",
-      "rewardId": "pub-legend3-20260929",
+      "rewardId": "pub-legend3-20260929-r2",
       "diamonds": 0,
       "pinkDiamonds": 0,
       "cardTier": "Legendary",
@@ -29,7 +29,7 @@
     },
     {
       "code": "RKATKDYD",
-      "rewardId": "pub-diamond-20260929",
+      "rewardId": "pub-diamond-20260929-r2",
       "diamonds": 50000,
       "pinkDiamonds": 50000,
       "pinkAsDiamondIfLocked": true
