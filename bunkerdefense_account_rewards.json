@@ -5,6 +5,15 @@
       "rewardId": "pub-launch-20261009-02",
       "diamonds": 30000,
       "pinkDiamonds": 0
+    },
+    {
+      "code": "DISCORDOPEN",
+      "rewardId": "pub-discord-20261011-01",
+      "diamonds": 0,
+      "pinkDiamonds": 0,
+      "cardTier": "Legendary",
+      "cardCount": 3,
+      "cardPick": "unowned"
     }
   ]
 }
